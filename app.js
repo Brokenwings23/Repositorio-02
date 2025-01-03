@@ -1,5 +1,5 @@
 let numeroSecreto = gerarNumeroAleatorio();
-let tentativas = 5
+let tentativas = 10
 
 console.log (numeroSecreto)
 
